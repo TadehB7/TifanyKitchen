@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (in case tooling is added later)
+node_modules/
+package-lock.json
+
+# PHP
+*.cache
+vendor/
+
+# Environment/config secrets
+.env
+.env.*
+
+# Temp files
+*.tmp
+*.bak
