@@ -1,5 +1,5 @@
 {
-  "name": "tifany-kitchen-api",
+  "name": "tiffany-kitchen-api",
   "version": "1.0.0",
   "private": true,
   "main": "src/functions/*.js",
