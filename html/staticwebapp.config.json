@@ -1,0 +1,12 @@
+{
+  "trailingSlash": "auto",
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/error.html",
+      "statusCode": 404
+    }
+  },
+  "mimeTypes": {
+    ".webmanifest": "application/manifest+json"
+  }
+}

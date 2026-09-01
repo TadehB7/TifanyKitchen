@@ -17,6 +17,12 @@ npm-debug.log*
 node_modules/
 package-lock.json
 
+# Azure Functions / Static Web Apps
+api/local.settings.json
+api/bin/
+api/obj/
+.swa/
+
 # PHP
 *.cache
 vendor/
