@@ -18,7 +18,7 @@ app.http('submitEnquiry', {
 
         const apiKey = process.env.SENDGRID_API_KEY;
         const fromAddress = process.env.CONTACT_FROM_EMAIL;
-        const toAddress = process.env.CONTACT_TO_EMAIL || 'carrier@tiffanykitchenhtml.com';
+        const toAddress = process.env.CONTACT_TO_EMAIL || 'info@tiffanykitchen.com';
 
         if (!apiKey || !fromAddress) {
             context.error('submitEnquiry: SendGrid is not configured (SENDGRID_API_KEY / CONTACT_FROM_EMAIL).');

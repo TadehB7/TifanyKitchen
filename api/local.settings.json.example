@@ -4,8 +4,8 @@
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "node",
     "SENDGRID_API_KEY": "",
-    "CONTACT_FROM_EMAIL": "noreply@tiffanykitchenhtml.com",
-    "CONTACT_TO_EMAIL": "carrier@tiffanykitchenhtml.com",
-    "REVIEW_TO_EMAIL": "enquiry@tiffanykitchenhtml.com"
+    "CONTACT_FROM_EMAIL": "noreply@tiffanykitchen.com",
+    "CONTACT_TO_EMAIL": "info@tiffanykitchen.com",
+    "REVIEW_TO_EMAIL": "info@tiffanykitchen.com"
   }
 }
